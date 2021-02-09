@@ -1,6 +1,8 @@
 ## Learning Super Mario Bros with Deep Reinforcement Learning
-
-![Drag Racing](https://i.pinimg.com/originals/07/30/fa/0730fa3fc6a8d13836014e0763ba42ed.jpg)
+Reinforcement Learning
+Using Q-learning
+Will train the game over every episode to finally solve the game.
+[link here] (https://blog.paperspace.com/building-double-deep-q-network-super-mario-bros/)
 You can use the [editor on GitHub](https://github.com/jcillay/Project-Proposal/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 
