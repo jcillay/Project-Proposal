@@ -6,12 +6,6 @@ This project will be an application of using neural networks along with reinforc
 Time permitted, there could also be a possibility of training the neural network to complete multiple levels in a reasonable time frame.
 
 
-
-
-[link here] (https://blog.paperspace.com/building-double-deep-q-network-super-mario-bros/)
-You can use the [editor on GitHub](https://github.com/jcillay/Project-Proposal/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-
 ## Goals
 1. Train an agent to learn a level of Super Mario Brothers.
 2. Learn the basics of Q-learning and Reinforcement learning.
